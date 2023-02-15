@@ -276,4 +276,4 @@ for file_name in lst3:
         os.remove(os.path.join(parent, file_name))
 
 
-input('DONE ----- Press ENTER to exit') #change raw_input to input when running on BECK
+input('DONE ----- Press ENTER to exit') #change raw_input to input when running on Python > 3
